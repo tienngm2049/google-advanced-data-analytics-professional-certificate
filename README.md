@@ -14,3 +14,7 @@ Skills I have learned so far from this professional certificate:
 Course 1 Foundations of Data Science
 ![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/816473e7-6459-4ac7-b265-4be4790b6a32)
 Link to verify: https://www.coursera.org/account/accomplishments/verify/RTA76X4FEZ4V
+
+Course 2 Get Started with Python
+![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/4ff82607-a4df-4331-a1e6-6846f9091e9e)
+Link to verify: https://www.coursera.org/account/accomplishments/verify/U8UVL7SHNFJV
