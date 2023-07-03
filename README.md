@@ -1,6 +1,13 @@
 # Google Advanced Data Analytics Certificate
 
 ## About this Professional Certificate:
+This professional certificate includes over 180 hours of instruction and hundreds of practice-based assessments over total of 7 courses. 
+
+Skills I have learned so far from this professional certificate:
+- Data Cleansing and Preprecessing
+- Data Visualization 
+- Decision-Making & Problem Solving
+- Statistics & Machine Learning
 
 ## Certificates
 
