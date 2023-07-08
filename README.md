@@ -18,3 +18,7 @@ Link to verify: https://www.coursera.org/account/accomplishments/verify/RTA76X4F
 Course 2 Get Started with Python
 ![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/4ff82607-a4df-4331-a1e6-6846f9091e9e)
 Link to verify: https://www.coursera.org/account/accomplishments/verify/U8UVL7SHNFJV
+
+Course 3 Go Beyond the Numbers: Translate Data into Insights
+![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/0d30b6a3-6115-4c61-80e9-0eb67c4676f1)
+Link to verify: https://www.coursera.org/account/accomplishments/verify/K5WPDGFGG2LJ
