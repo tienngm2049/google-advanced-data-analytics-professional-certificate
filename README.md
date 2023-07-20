@@ -22,3 +22,7 @@ Link to verify: https://www.coursera.org/account/accomplishments/verify/U8UVL7SH
 Course 3 Go Beyond the Numbers: Translate Data into Insights
 ![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/0d30b6a3-6115-4c61-80e9-0eb67c4676f1)
 Link to verify: https://www.coursera.org/account/accomplishments/verify/K5WPDGFGG2LJ
+
+Course 4 The Power of Statistics
+![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/4c7e7ca3-d130-4559-8b2f-c6791bd9844e)
+Link to verify: https://www.coursera.org/account/accomplishments/verify/SYYARCRJDPR8
