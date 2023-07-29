@@ -26,3 +26,8 @@ Link to verify: https://www.coursera.org/account/accomplishments/verify/K5WPDGFG
 Course 4 The Power of Statistics
 ![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/4c7e7ca3-d130-4559-8b2f-c6791bd9844e)
 Link to verify: https://www.coursera.org/account/accomplishments/verify/SYYARCRJDPR8
+
+Course 5 Regression Analysis Simplify Complex Data Relationships
+![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/add83144-08cd-4c0f-8a32-59aa11a82ae9)
+Link to verify: https://www.coursera.org/account/accomplishments/verify/M866LHFEYXNK
+
