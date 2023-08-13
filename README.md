@@ -31,3 +31,6 @@ Course 5 Regression Analysis Simplify Complex Data Relationships
 ![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/add83144-08cd-4c0f-8a32-59aa11a82ae9)
 Link to verify: https://www.coursera.org/account/accomplishments/verify/M866LHFEYXNK
 
+Course 6 The Nuts and Bolts of Machine Learning
+![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/2d05018d-341c-4ae5-92e7-e0117ac29c12)
+Link to verify: https://www.coursera.org/account/accomplishments/verify/XZND4F85HUBX
