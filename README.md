@@ -12,6 +12,7 @@ Skills I have learned so far from this professional certificate:
 ## Certificates
 
 ### Google Advanced Data Analytics Professional Certificate
+
 ![image](https://github.com/tienngm2049/Google-Advanced-Data-Analytics-Certificate/assets/131929681/172f0017-42db-495b-bfdc-1f11b559aa0d)
 Link to verify: https://www.coursera.org/account/accomplishments/professional-cert/V6D526Y9W5P7
 ---------------------------------
